@@ -1,2 +1,2 @@
 # FormApp
-C# ile geliştirilen basit form tasarımları
+Temel ve orta seviye c# form uygulamaları
